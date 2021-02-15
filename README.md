@@ -5,7 +5,7 @@
   que aprendi até o momento, tanto de CSS quanto de HTML.
 </p>
 
-<h2 align="center">***** EM CONSTRUÇÂO *****</h2>
+<img align="center" src="https://github.com/SilvioDiasJr/login-clone-face/blob/main/projeto-finalizado.gif" alt="imagem do projeto" width="600px"/>
 
 <h3 align="center">Técnicas e recursos utilizados</h3>
 
