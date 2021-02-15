@@ -1,13 +1,13 @@
-<h1 aling="center">Clone da página login Facebook</h1>
+<h1 align="center">Clone da página login Facebook</h1>
 
 <p>
   Aplicação responsiva desenvolvida apenas com CSS e HTML. Foi possível por em prática as técnicas
   que aprendi até o momento, tanto de CSS quanto de HTML.
 </p>
 
-<h1 aling="center">***** EM CONSTRUÇÂO *****</h1>
+<h2 align="center">***** EM CONSTRUÇÂO *****</h2>
 
-<h2 aling="center">Técnicas e recursos utilizados</p>
+<h3 align="center">Técnicas e recursos utilizados</h3>
 
 <ul>
   <li>FlexBox</li>
