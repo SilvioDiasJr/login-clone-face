@@ -5,7 +5,10 @@
   que aprendi até o momento, tanto de CSS quanto de HTML.
 </p>
 
-<img align="center" src="https://github.com/SilvioDiasJr/login-clone-face/blob/main/projeto-finalizado.gif" alt="imagem do projeto" width="600px"/>
+<p align="center">
+  <img src="https://github.com/SilvioDiasJr/login-clone-face/blob/main/projeto-finalizado.gif" alt="imagem do projeto" width="600px"/>
+</p>
+
 
 <h3 align="center">Técnicas e recursos utilizados</h3>
 
