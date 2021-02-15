@@ -10,7 +10,7 @@
 
 ## 🌐 Site do projeto
 
-<p>Para acessar <a href="https://clone-login-face.netlify.app/" target="_blank">clique aqui!!</a></p>
+<a href="https://clone-login-face.netlify.app/" target="_blank">clique aqui!!</a>
 
 ## 🎨 Layout
 
