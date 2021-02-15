@@ -8,6 +8,10 @@
   que aprendi até o momento, tanto de CSS quanto de HTML.
 </p>
 
+## 🌐 Site do projeto
+
+<p>Para acessar <a href="https://clone-login-face.netlify.app/" target="_blank">clique aqui!!</a></p>
+
 ## 🎨 Layout
 
 <p align="center">
@@ -15,7 +19,7 @@
 </p>
 
 
-## 🛠️ Técnicas e recursos utilizados
+## 🧰 Técnicas e recursos utilizados
 
 <ul>
   <li>FlexBox</li>
