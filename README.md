@@ -1,16 +1,21 @@
 <h1 align="center">Clone da página login Facebook</h1>
 
+
+## 💡 Sobre
+
 <p>
   Aplicação responsiva desenvolvida apenas com CSS e HTML. Foi possível por em prática as técnicas
   que aprendi até o momento, tanto de CSS quanto de HTML.
 </p>
+
+## 🎨 Layout
 
 <p align="center">
   <img src="https://github.com/SilvioDiasJr/login-clone-face/blob/main/projeto-finalizado.gif" alt="imagem do projeto" width="600px"/>
 </p>
 
 
-<h3 align="center">Técnicas e recursos utilizados</h3>
+## 🛠️ Técnicas e recursos utilizados
 
 <ul>
   <li>FlexBox</li>
@@ -21,3 +26,4 @@
   <li>transform</li>
   <li>position</li>
 </ul>
+
